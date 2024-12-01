@@ -1,4 +1,4 @@
-module auth-protobuf
+module github.com/mikhail-balandin/auth-protobuf
 
 go 1.23.3
 
